@@ -1,1 +1,14 @@
+What is Python?
+--Python is a high-level, general-purpose programming language used to give instructions to computers and build software.
 
+Why Learn Python?
+--Python is one of the most widely used programming languages because it is easy to learn, versatile and has a huge ecosystem of libraries.
+
+What Can Python be used for?
+-- Data Science
+-- Machine Learning
+-- Web Development
+-- Data Visualization
+-- Automation & Scripting
+-- NLP
+-- APIs and Backend development
